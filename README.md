@@ -1,6 +1,6 @@
 # 🌿 Smart Eco Scanner
 
-> **Smart Eco Scanner** is an AI-powered full-stack web app that helps users classify waste items (e.g., coffee cups, plastic bags, batteries) into recyclable, compostable, or trash — while offering sustainability tips and tracking eco habits.
+Smart Eco Scanner** is an AI-powered full-stack web app that helps users classify waste items (e.g., coffee cups, plastic bags, batteries) into recyclable, compostable, or trash — while offering sustainability tips and tracking eco habits.
 
 Built using **React**, **Flask**, and **Firebase**, this project showcases end-to-end skills across **AI logic, cloud integration, frontend/backend development, and real deployment** — making it ideal for real-world use and job applications.
 
