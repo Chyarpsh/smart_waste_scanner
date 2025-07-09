@@ -1,4 +1,4 @@
-# ♻️ Smart Waste Scanner
+# Smart Waste Scanner
 
 Smart Waste Scanner is a cross-platform eco-sustainability app that helps users identify and classify waste using AI. The app supports typing, scanning, or uploading an image to detect waste type, and provides eco-friendly disposal tips and creative reuse suggestions. It includes user authentication, dashboard history, and gamification to track your environmental impact.
 
